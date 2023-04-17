@@ -10,6 +10,7 @@ https://shlykovaa.github.io/Module_JS/
 > Create a better name for project
 > Structure your repo as well. Rename accordingly to project name and add a description
 > Improve description your readme file. Ideally text here should be understandable for any person even non programmers
+> This repo should be usable as portfolio project
 
 > Improve your folder structure in project
 > Create folder for js files
